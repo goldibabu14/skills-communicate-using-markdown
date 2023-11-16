@@ -3,6 +3,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Be nice to others
+- [x] patience
+- [ ] anger
 
 
 
