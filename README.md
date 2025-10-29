@@ -15,7 +15,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 </header>
 
 <!--
-  <<< Author notes: Finish >>>
+  <<< Author notes:  Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
 
